@@ -1,5 +1,5 @@
 #!/bin/bash
-#Miguel Ángel Arrate Gallego & Adrián López Portomeñe
+#Miguel Angel Arrate Gallego & Adrian Lopez Portomenhe
 
 clear
 #----ficheros importados------
@@ -44,7 +44,7 @@ while [ selec != '' ]
 		;;
 		
 		*) echo ""
-		echo "Eso no está en el menú"
+		echo "Eso no esta en el menu"
 		clear
 		menu;
 		;;

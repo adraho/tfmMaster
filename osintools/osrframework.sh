@@ -1,27 +1,27 @@
 #!/bin/bash
-#Miguel Ángel Arrate Gallego & Adrián López Portomeñe
+#Miguel Angel Arrate Gallego & Adrian Lopez Portomenhe
 . menu.sh
 
 osrframework(){
 	clear
 	echo ""
 	echo -e "\e[1;30m
-	##################################################################
-	#  _                                                             #
-	# | |                                                            #
-	# | |__  _   _ _ __ ___  _ __                                    #
-	# | '_ \| | | | '__/ _ \| '_ \                                   #
-	# | | | | |_| | | | (_) | | | |                                  #
-	# |_| |_|\__,_|_|  \___/|_| |_|                                  #
-	#                                                                #
-	# Script de instalación {v1.0}                                   #
-	# Coded by Miguel Ángel Arrate Gallego & Adrián López Portomeñe  #
-	#                                                                #
-	##################################################################\e[0m"
+	###################################################################
+	#  _                                                              #
+	# | |                                                             #
+	# | |__  _   _ _ __ ___  _ __                                     #
+	# | '_ \| | | | '__/ _ \| '_ \                                    #
+	# | | | | |_| | | | (_) | | | |                                   #
+	# |_| |_|\__,_|_|  \___/|_| |_|                                   #
+	#                                                                 #
+	# Script de instalación {v1.0}                                    #
+	# Coded by Miguel Angel Arrate Gallego & Adrian Lopez Portomenhe  #
+	#                                                                 #
+	###################################################################\e[0m"
 	echo ""
 	echo -e "\e[1;30m
 	>> OSRFramework
-	##################################################################\e[0m"
+	###################################################################\e[0m"
 	echo ""
 	echo -e "\e[1;30m
 	[1] lanzar
@@ -64,7 +64,7 @@ osrframework(){
 		osrframework;
 	else
 		echo ""
-		echo "Eso no está en el menú"
+		echo "Eso no esta en el menu"
 		clear
 		osrframework
 fi
